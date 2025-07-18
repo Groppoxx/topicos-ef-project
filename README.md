@@ -66,6 +66,6 @@ Durante el desarrollo he contado con la asistencia de ChatGPT para:
 
 * **Redacción del README:** estructurar secciones, mejorar la legibilidad y el estilo.
 
-* **Corrección y refactorización de código:** optimizar comportamientos SPADE, ajustar la lógica de negociación y añadir visualización con Matplotlib.
+* **Corrección y refactorización de código:** optimizar comportamientos SPADE y ajustar la lógica de negociación.
 
 * **Generación de comandos en WSL/Prosody:** asegurar los pasos exactos para registrar y validar agentes.
