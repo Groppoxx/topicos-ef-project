@@ -1,0 +1,40 @@
+[washer] Petición enviada: normal:21
+[energymanager] Propuesta a washer@localhost: start=23, mode=eco, finish=1 (period=peak)
+[washer] Propuesta recibida: eco a las 23:00, finish=1:00 (Δt=21h)
+[washer] Rechazando propuesta
+[dishwasher] Petición enviada: eco:22
+[energymanager] Propuesta a dishwasher@localhost: start=22, mode=eco, finish=0 (period=peak)
+[dishwasher] Propuesta recibida: eco a las 22:00, finish=0:00 (Δt=21h)
+[dishwasher] Rechazando propuesta
+[lights] Petición enviada: normal:0:76
+[energymanager] Propuesta a lights@localhost: start=2, mode=eco, finish=4, brightness=46% (period=peak)
+[lights] Propuesta recibida: eco a las 2:00, finish=4:00, brillo=46% (Δt=19h, Δb=34%)
+[lights] Rechazando propuesta
+[MAIN] Smart Home MAS iniciado. Cada dispositivo pedirá cada 10 s.
+---------------------------------------------------------------------------------------------------------
+[washer] Petición enviada: normal:23
+[energymanager] Propuesta a washer@localhost: start=2, mode=eco, finish=4 (period=peak)
+[washer] Propuesta recibida: eco a las 2:00, finish=4:00 (Δt=18h)
+[washer] Rechazando propuesta
+[dishwasher] Petición enviada: eco:22
+[energymanager] Propuesta a dishwasher@localhost: start=22, mode=eco, finish=0 (period=peak)
+[dishwasher] Propuesta recibida: eco a las 22:00, finish=0:00 (Δt=21h)
+[dishwasher] Rechazando propuesta
+[lights] Petición enviada: normal:22:74
+[energymanager] Propuesta a lights@localhost: start=1, mode=eco, finish=3, brightness=44% (period=peak)
+[lights] Propuesta recibida: eco a las 1:00, finish=3:00, brillo=44% (Δt=20h, Δb=36%)
+[lights] Rechazando propuesta
+---------------------------------------------------------------------------------------------------------
+[washer] Petición enviada: normal:22
+[energymanager] Propuesta a washer@localhost: start=0, mode=eco, finish=2 (period=peak)
+[washer] Propuesta recibida: eco a las 0:00, finish=2:00 (Δt=20h)
+[washer] Rechazando propuesta
+[dishwasher] Petición enviada: eco:22
+[energymanager] Propuesta a dishwasher@localhost: start=23, mode=eco, finish=1 (period=peak)
+[dishwasher] Propuesta recibida: eco a las 23:00, finish=1:00 (Δt=20h)
+[dishwasher] Rechazando propuesta
+[lights] Petición enviada: normal:0:80
+[energymanager] Propuesta a lights@localhost: start=2, mode=eco, finish=4, brightness=50% (period=peak)
+[lights] Propuesta recibida: eco a las 2:00, finish=4:00, brillo=50% (Δt=19h, Δb=30%)
+[lights] Rechazando propuesta
+---------------------------------------------------------------------------------------------------------
